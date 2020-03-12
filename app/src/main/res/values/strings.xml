@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ParentTracker</string>>
+    <string name="title_home">Home</string>
+    <string name="title_attendance">Attendance</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="usn">Username</string>
+    <string name="pswd">Password</string>
+    <string name="lgn">Login</string>
+
+    <string name="route">4A</string>
+    <string name="bus_no">Bus Number</string>
+    <string name="status">OFF DUTY</string>
+
+    <string name="attendance">Absent</string>
+    <string name="name">Name</string>
+    <string name="roll">Roll Number</string>
+    <string name="contact">Contact</string>
+
+
+    <string name="details">Select Date</string>
+
+    <string name="email">01</string>
+    <string name="pwd">qwertyuiop</string>
+    <string name="channel_name">Alert</string>
+    <string name="channel_description">Attendance</string>
+
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+    <string name="empty">   ----------</string>
+    <string name="att_details">Attendance Details</string>
+
+    <string name="att_status">Status</string>
+    <string name="att_time">Time</string>
+    <string name="date">Date</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="message">Bus is offline, Please try again later :)</string>
+    <string name="addGeo">Add GeoFence</string>
+    <string name="rad">Radius</string>
+
+    <string name="no1">Number 1</string>
+    <string name="no2">Number 2</string>
+    <string name="no3">Number 3</string>
+    <string name="image">Image</string>
+
+    <string name="nm">GeoFence Name</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="notifications">Subscribe Notifications</string>
+
+</resources>

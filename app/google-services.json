@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "850677201615",
+    "firebase_url": "https://bussystem-52d79.firebaseio.com",
+    "project_id": "bussystem-52d79",
+    "storage_bucket": "bussystem-52d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850677201615:android:6ebda8ba24bf55f0",
+        "android_client_info": {
+          "package_name": "com.shubham.dell.bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850677201615-h9jb0lml2tia4msmfgg9ous6le2t337u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.dell.bus",
+            "certificate_hash": "27959765bdb7368b8d6ebd56abbe7cf95561c246"
+          }
+        },
+        {
+          "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07ptFpa0uJnfS-kXcZTuB5zWcQIOO5HM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850677201615:android:b665dadc083eb186",
+        "android_client_info": {
+          "package_name": "com.shubham.dell.busapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850677201615-fum1gn29vj9np3hf0732fp2gu0uqt5bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.dell.busapplication",
+            "certificate_hash": "27959765bdb7368b8d6ebd56abbe7cf95561c246"
+          }
+        },
+        {
+          "client_id": "850677201615-lj1qqkdr7c0hrqqeapc1ev6fnp21j8gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.dell.busapplication",
+            "certificate_hash": "ac2a3b9075ef848d31961a5c22ce7e24b44f8129"
+          }
+        },
+        {
+          "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07ptFpa0uJnfS-kXcZTuB5zWcQIOO5HM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850677201615:android:58b1a062d2c59156",
+        "android_client_info": {
+          "package_name": "com.shubham.dell.parenttracker1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850677201615-sdf42ifo66kts92lr2f6maen1ptccgg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.dell.parenttracker1",
+            "certificate_hash": "27959765bdb7368b8d6ebd56abbe7cf95561c246"
+          }
+        },
+        {
+          "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07ptFpa0uJnfS-kXcZTuB5zWcQIOO5HM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850677201615:android:d7603ca3f6858dc4",
+        "android_client_info": {
+          "package_name": "domain.mall.elpida.parenttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850677201615-7m63roop06gjligm0afahst9eu9fu49n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "domain.mall.elpida.parenttracker",
+            "certificate_hash": "ac2a3b9075ef848d31961a5c22ce7e24b44f8129"
+          }
+        },
+        {
+          "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07ptFpa0uJnfS-kXcZTuB5zWcQIOO5HM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850677201615-u48gr1c6mbq5e8dfbhqrkmmhinkjubcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
